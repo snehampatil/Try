@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-hello Sneha
-=======
-hi
-<<<<<<< HEAD
-GM
->>>>>>> hello added
-=======
->>>>>>> hello changed
