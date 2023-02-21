@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello Sneha
+=======
+hi
+GM
+>>>>>>> hello added
